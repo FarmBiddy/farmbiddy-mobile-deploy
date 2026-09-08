@@ -1,3 +1,3 @@
 version: 0.4.4
-release_date: 2026-06-25
-notes: Pointing to QA agent/db
+release_date: 2026-08-09
+notes: Change endpoint from /client/query to /query for idempotency
